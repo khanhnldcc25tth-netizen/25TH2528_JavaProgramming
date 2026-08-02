@@ -1,7 +1,7 @@
 /**
  * 
  */
-package till.edu;
+package tiil.edu;
 
 /**
  * 
